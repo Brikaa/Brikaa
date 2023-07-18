@@ -1,0 +1,17 @@
+name: contributions-getter
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '* 3 * * *'
+jobs:
+  update-contributions:
+    runs-on: ubuntu-latest
+    name: Update contributions
+    steps:
+      - name: Update contributions
+        uses: Brikaa/contributions-getter-actions@v1.1.0
+        with:
+          token: ${{ secrets.token }}
+          file-before-path: before.md
+          file-after-path: after.md
+          sort-repos-fn: "STARS"
