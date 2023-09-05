@@ -2,7 +2,7 @@ name: contributions-getter
 on:
   workflow_dispatch:
   schedule:
-    - cron: '* 3 * * *'
+    - cron: '0 3 * * *'
 jobs:
   update-contributions:
     runs-on: ubuntu-latest
