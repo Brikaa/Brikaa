@@ -1,379 +1,379 @@
 # Repositories I have contributed to
 
-## 2024-12-29 -> 2025-12-29
+## 2024-12-30 -> 2025-12-30
 
 <details>
 
-### ⭐ [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - [7 commits](https://github.com/excalidraw/excalidraw/commits?author=Brikaa&since=2024-12-29&until=2025-12-30) - TypeScript
+### ⭐ [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - [7 commits](https://github.com/excalidraw/excalidraw/commits?author=Brikaa&since=2024-12-30&until=2025-12-31) - TypeScript
 Virtual whiteboard for sketching hand-drawn like diagrams
 
-### ⭐ [engineer-man/piston](https://github.com/engineer-man/piston) - [2 commits](https://github.com/engineer-man/piston/commits?author=Brikaa&since=2024-12-29&until=2025-12-30) - JavaScript
+### ⭐ [engineer-man/piston](https://github.com/engineer-man/piston) - [2 commits](https://github.com/engineer-man/piston/commits?author=Brikaa&since=2024-12-30&until=2025-12-31) - JavaScript
 A high performance general purpose code execution engine.
 
-### [excalidraw-smart-presentation/excalidraw-smart-presentation.github.io](https://github.com/excalidraw-smart-presentation/excalidraw-smart-presentation.github.io) - [136 commits](https://github.com/excalidraw-smart-presentation/excalidraw-smart-presentation.github.io/commits?author=Brikaa&since=2024-12-29&until=2025-12-30) - TypeScript
+### [excalidraw-smart-presentation/excalidraw-smart-presentation.github.io](https://github.com/excalidraw-smart-presentation/excalidraw-smart-presentation.github.io) - [136 commits](https://github.com/excalidraw-smart-presentation/excalidraw-smart-presentation.github.io/commits?author=Brikaa&since=2024-12-30&until=2025-12-31) - TypeScript
 Excalidraw fork that helps in making presentations with smart animations
 
-### [Brikaa/dotfiles](https://github.com/Brikaa/dotfiles) - [7 commits](https://github.com/Brikaa/dotfiles/commits?author=Brikaa&since=2024-12-29&until=2025-12-30) - Shell
+### [Brikaa/dotfiles](https://github.com/Brikaa/dotfiles) - [7 commits](https://github.com/Brikaa/dotfiles/commits?author=Brikaa&since=2024-12-30&until=2025-12-31) - Shell
 My dotfiles
 
-### [zeitwlamoon/zeitwlamoon.github.io](https://github.com/zeitwlamoon/zeitwlamoon.github.io) - [2 commits](https://github.com/zeitwlamoon/zeitwlamoon.github.io/commits?author=Brikaa&since=2024-12-29&until=2025-12-30) - HTML
+### [zeitwlamoon/zeitwlamoon.github.io](https://github.com/zeitwlamoon/zeitwlamoon.github.io) - [2 commits](https://github.com/zeitwlamoon/zeitwlamoon.github.io/commits?author=Brikaa&since=2024-12-30&until=2025-12-31) - HTML
 Discover Egypt through the eyes of Zeit W Lamoon, the Dubai-based destination to a culinary taste sensation. Established in 2021, Zeit W Lamoon means ‘Oil and lemon,’ which form an authentic Egyptian mixture to spice up the “Fava Beans” dish, also known as “Foul Medammes,” the primary element of Egyptian street food.
 
-### [Brikaa/chrome-images-blur-extension](https://github.com/Brikaa/chrome-images-blur-extension) - [10 commits](https://github.com/Brikaa/chrome-images-blur-extension/commits?author=Brikaa&since=2024-12-29&until=2025-12-30) - JavaScript
+### [Brikaa/chrome-images-blur-extension](https://github.com/Brikaa/chrome-images-blur-extension) - [10 commits](https://github.com/Brikaa/chrome-images-blur-extension/commits?author=Brikaa&since=2024-12-30&until=2025-12-31) - JavaScript
 A chrome extension that blurs all images.
 
 </details>
 
-## 2023-12-29 -> 2024-12-29
+## 2023-12-30 -> 2024-12-30
 
 <details>
 
-### ⭐ [engineer-man/piston](https://github.com/engineer-man/piston) - [10 commits](https://github.com/engineer-man/piston/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - JavaScript
+### ⭐ [engineer-man/piston](https://github.com/engineer-man/piston) - [10 commits](https://github.com/engineer-man/piston/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - JavaScript
 A high performance general purpose code execution engine.
 
-### [azzamsa/bilal](https://github.com/azzamsa/bilal) - [1 commit](https://github.com/azzamsa/bilal/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - Rust
+### [azzamsa/bilal](https://github.com/azzamsa/bilal) - [1 commit](https://github.com/azzamsa/bilal/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - Rust
 A CLI salah time written in Rust
 
-### [envicutor/envicutor](https://github.com/envicutor/envicutor) - [109 commits](https://github.com/envicutor/envicutor/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - Rust
+### [envicutor/envicutor](https://github.com/envicutor/envicutor) - [109 commits](https://github.com/envicutor/envicutor/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - Rust
 Source code for the Envicutor code execution system.
 
-### [Brikaa/gpa-calculator](https://github.com/Brikaa/gpa-calculator) - [1 commit](https://github.com/Brikaa/gpa-calculator/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - JavaScript
+### [Brikaa/gpa-calculator](https://github.com/Brikaa/gpa-calculator) - [1 commit](https://github.com/Brikaa/gpa-calculator/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - JavaScript
 Calculate your expected GPA on http://newecom.fci.cu.edu.eg/
 
-### [envicutor/drafts](https://github.com/envicutor/drafts) - [111 commits](https://github.com/envicutor/drafts/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - Dockerfile
+### [envicutor/drafts](https://github.com/envicutor/drafts) - [111 commits](https://github.com/envicutor/drafts/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - Dockerfile
 Issues and drafts for Envicutor
 
-### [envicutor/documentation](https://github.com/envicutor/documentation) - [35 commits](https://github.com/envicutor/documentation/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - TeX
+### [envicutor/documentation](https://github.com/envicutor/documentation) - [35 commits](https://github.com/envicutor/documentation/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - TeX
 Envicutor code execution system documentation
 
-### [Brikaa/dotfiles](https://github.com/Brikaa/dotfiles) - [14 commits](https://github.com/Brikaa/dotfiles/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - Shell
+### [Brikaa/dotfiles](https://github.com/Brikaa/dotfiles) - [14 commits](https://github.com/Brikaa/dotfiles/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - Shell
 My dotfiles
 
-### [Brikaa/newecom-monitor](https://github.com/Brikaa/newecom-monitor) - [1 commit](https://github.com/Brikaa/newecom-monitor/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - Python
+### [Brikaa/newecom-monitor](https://github.com/Brikaa/newecom-monitor) - [1 commit](https://github.com/Brikaa/newecom-monitor/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - Python
 Monitor the registration status in http://newecom.fci-cu.edu.eg/
 
-### [Brikaa/brikaa.github.io](https://github.com/Brikaa/brikaa.github.io) - [1 commit](https://github.com/Brikaa/brikaa.github.io/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - HTML
+### [Brikaa/brikaa.github.io](https://github.com/Brikaa/brikaa.github.io) - [1 commit](https://github.com/Brikaa/brikaa.github.io/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - HTML
 Omar Brikaa's personal website.
 
-### [Brikaa/distributed-systems-assignment-2](https://github.com/Brikaa/distributed-systems-assignment-2) - [93 commits](https://github.com/Brikaa/distributed-systems-assignment-2/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - Java
+### [Brikaa/distributed-systems-assignment-2](https://github.com/Brikaa/distributed-systems-assignment-2) - [93 commits](https://github.com/Brikaa/distributed-systems-assignment-2/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - Java
 Usage of Java EE to implement an elearning system with a microservices architecture
 
-### [Brikaa/security-assignment-2](https://github.com/Brikaa/security-assignment-2) - [68 commits](https://github.com/Brikaa/security-assignment-2/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - Java
+### [Brikaa/security-assignment-2](https://github.com/Brikaa/security-assignment-2) - [68 commits](https://github.com/Brikaa/security-assignment-2/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - Java
 Penetration testing, fixing vulnerabilities
 
-### [Brikaa/problem-solving](https://github.com/Brikaa/problem-solving) - [57 commits](https://github.com/Brikaa/problem-solving/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - C++
+### [Brikaa/problem-solving](https://github.com/Brikaa/problem-solving) - [50 commits](https://github.com/Brikaa/problem-solving/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - C++
 Problems solved in the problem solving course
 
-### [Brikaa/distributed-systems-assignment-1](https://github.com/Brikaa/distributed-systems-assignment-1) - [45 commits](https://github.com/Brikaa/distributed-systems-assignment-1/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - Java
+### [Brikaa/distributed-systems-assignment-1](https://github.com/Brikaa/distributed-systems-assignment-1) - [45 commits](https://github.com/Brikaa/distributed-systems-assignment-1/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - Java
 Socket programming to create a book borrowing application
 
-### [Brikaa/security-assignment-1](https://github.com/Brikaa/security-assignment-1) - [29 commits](https://github.com/Brikaa/security-assignment-1/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - JavaScript
+### [Brikaa/security-assignment-1](https://github.com/Brikaa/security-assignment-1) - [29 commits](https://github.com/Brikaa/security-assignment-1/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - JavaScript
 DES, RSA, penetration testing, security improvements to an open-source website
 
-### [Brikaa/ml-assignment-3](https://github.com/Brikaa/ml-assignment-3) - [27 commits](https://github.com/Brikaa/ml-assignment-3/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - Python
+### [Brikaa/ml-assignment-3](https://github.com/Brikaa/ml-assignment-3) - [27 commits](https://github.com/Brikaa/ml-assignment-3/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - Python
 SVM using scikit-learn, MLP and CNN using Keras
 
-### [Brikaa/theory-assignment-2](https://github.com/Brikaa/theory-assignment-2) - [20 commits](https://github.com/Brikaa/theory-assignment-2/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - Java
+### [Brikaa/theory-assignment-2](https://github.com/Brikaa/theory-assignment-2) - [20 commits](https://github.com/Brikaa/theory-assignment-2/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - Java
 NFA, DFA
 
-### [Brikaa/ml-assignment-1](https://github.com/Brikaa/ml-assignment-1) - [17 commits](https://github.com/Brikaa/ml-assignment-1/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - HTML
+### [Brikaa/ml-assignment-1](https://github.com/Brikaa/ml-assignment-1) - [17 commits](https://github.com/Brikaa/ml-assignment-1/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - HTML
 Linear regression using scikit-learn, logistic regression from scratch
 
-### [Brikaa/security-des-task](https://github.com/Brikaa/security-des-task) - [10 commits](https://github.com/Brikaa/security-des-task/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - Rust
+### [Brikaa/security-des-task](https://github.com/Brikaa/security-des-task) - [10 commits](https://github.com/Brikaa/security-des-task/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - Rust
 no description
 
-### [envicutor/docs-builder](https://github.com/envicutor/docs-builder) - [8 commits](https://github.com/envicutor/docs-builder/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - Makefile
+### [envicutor/docs-builder](https://github.com/envicutor/docs-builder) - [8 commits](https://github.com/envicutor/docs-builder/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - Makefile
 Utilities to build the docs
 
-### [Brikaa/ml-assignment-2](https://github.com/Brikaa/ml-assignment-2) - [5 commits](https://github.com/Brikaa/ml-assignment-2/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - Python
+### [Brikaa/ml-assignment-2](https://github.com/Brikaa/ml-assignment-2) - [5 commits](https://github.com/Brikaa/ml-assignment-2/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - Python
 Decision trees using scikit-learn, KNN from scratch
 
-### [envicutor/docs-workflows](https://github.com/envicutor/docs-workflows) - [4 commits](https://github.com/envicutor/docs-workflows/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - no primary language
+### [envicutor/docs-workflows](https://github.com/envicutor/docs-workflows) - [4 commits](https://github.com/envicutor/docs-workflows/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - no primary language
 Common GitHub workflows that are used in building and deploying the docs
 
-### [Brikaa/remote-presentation-control](https://github.com/Brikaa/remote-presentation-control) - [1 commit](https://github.com/Brikaa/remote-presentation-control/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - HTML
+### [Brikaa/remote-presentation-control](https://github.com/Brikaa/remote-presentation-control) - [1 commit](https://github.com/Brikaa/remote-presentation-control/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - HTML
 Simple tool to simulate left and right arrow keys remotely
 
-### [Brikaa/soft-computing-assignment-2](https://github.com/Brikaa/soft-computing-assignment-2) - [1 commit](https://github.com/Brikaa/soft-computing-assignment-2/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - Rust
+### [Brikaa/soft-computing-assignment-2](https://github.com/Brikaa/soft-computing-assignment-2) - [1 commit](https://github.com/Brikaa/soft-computing-assignment-2/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - Rust
 Genetic algorithm for curve fitting
 
-### [Brikaa/tools-3-project](https://github.com/Brikaa/tools-3-project) - [1 commit](https://github.com/Brikaa/tools-3-project/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - Go
+### [Brikaa/tools-3-project](https://github.com/Brikaa/tools-3-project) - [1 commit](https://github.com/Brikaa/tools-3-project/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - Go
 no description
 
-### [cs-math/gpa-calc](https://github.com/cs-math/gpa-calc) - [1 commit](https://github.com/cs-math/gpa-calc/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - Python
+### [cs-math/gpa-calc](https://github.com/cs-math/gpa-calc) - [1 commit](https://github.com/cs-math/gpa-calc/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - Python
 Calculate your expected GPA on newecom.fci.cu.edu.eg
 
-### [Brikaa/theory-task-1](https://github.com/Brikaa/theory-task-1) - [1 commit](https://github.com/Brikaa/theory-task-1/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - Java
+### [Brikaa/theory-task-1](https://github.com/Brikaa/theory-task-1) - [1 commit](https://github.com/Brikaa/theory-task-1/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - Java
 no description
 
-### [Brikaa/theory-task-2](https://github.com/Brikaa/theory-task-2) - [1 commit](https://github.com/Brikaa/theory-task-2/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - no primary language
+### [Brikaa/theory-task-2](https://github.com/Brikaa/theory-task-2) - [1 commit](https://github.com/Brikaa/theory-task-2/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - no primary language
 no description
 
-### [Brikaa/security-rsa-task](https://github.com/Brikaa/security-rsa-task) - [1 commit](https://github.com/Brikaa/security-rsa-task/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - C++
+### [Brikaa/security-rsa-task](https://github.com/Brikaa/security-rsa-task) - [1 commit](https://github.com/Brikaa/security-rsa-task/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - C++
 no description
 
-### [envicutor/assets](https://github.com/envicutor/assets) - [1 commit](https://github.com/envicutor/assets/commits?author=Brikaa&since=2023-12-29&until=2024-12-30) - no primary language
+### [envicutor/assets](https://github.com/envicutor/assets) - [1 commit](https://github.com/envicutor/assets/commits?author=Brikaa&since=2023-12-30&until=2024-12-31) - no primary language
 no description
 
 </details>
 
-## 2022-12-29 -> 2023-12-29
+## 2022-12-30 -> 2023-12-30
 
 <details>
 
-### ⭐ [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - [1 commit](https://github.com/excalidraw/excalidraw/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - TypeScript
+### ⭐ [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - [1 commit](https://github.com/excalidraw/excalidraw/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - TypeScript
 Virtual whiteboard for sketching hand-drawn like diagrams
 
-### ⭐ [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - [2 commits](https://github.com/antonkomarev/github-profile-views-counter/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - PHP
+### ⭐ [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - [2 commits](https://github.com/antonkomarev/github-profile-views-counter/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - PHP
 It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 
-### ⭐ [engineer-man/piston](https://github.com/engineer-man/piston) - [5 commits](https://github.com/engineer-man/piston/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - JavaScript
+### ⭐ [engineer-man/piston](https://github.com/engineer-man/piston) - [5 commits](https://github.com/engineer-man/piston/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - JavaScript
 A high performance general purpose code execution engine.
 
-### [engineer-man/emkc](https://github.com/engineer-man/emkc) - [2 commits](https://github.com/engineer-man/emkc/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - JavaScript
+### [engineer-man/emkc](https://github.com/engineer-man/emkc) - [2 commits](https://github.com/engineer-man/emkc/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - JavaScript
 Engineer Man Knowledge Center
 
-### [excalidraw-smart-presentation/excalidraw-smart-presentation.github.io](https://github.com/excalidraw-smart-presentation/excalidraw-smart-presentation.github.io) - [1 commit](https://github.com/excalidraw-smart-presentation/excalidraw-smart-presentation.github.io/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - TypeScript
+### [excalidraw-smart-presentation/excalidraw-smart-presentation.github.io](https://github.com/excalidraw-smart-presentation/excalidraw-smart-presentation.github.io) - [1 commit](https://github.com/excalidraw-smart-presentation/excalidraw-smart-presentation.github.io/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - TypeScript
 Excalidraw fork that helps in making presentations with smart animations
 
-### [cs-math/cs-math.github.io](https://github.com/cs-math/cs-math.github.io) - [1 commit](https://github.com/cs-math/cs-math.github.io/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - JavaScript
+### [cs-math/cs-math.github.io](https://github.com/cs-math/cs-math.github.io) - [1 commit](https://github.com/cs-math/cs-math.github.io/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - JavaScript
 Code for /dev/null team in Cairo University CS-Math Society
 
-### [zeitwlamoon/zeitwlamoon.github.io](https://github.com/zeitwlamoon/zeitwlamoon.github.io) - [77 commits](https://github.com/zeitwlamoon/zeitwlamoon.github.io/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - HTML
+### [zeitwlamoon/zeitwlamoon.github.io](https://github.com/zeitwlamoon/zeitwlamoon.github.io) - [77 commits](https://github.com/zeitwlamoon/zeitwlamoon.github.io/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - HTML
 Discover Egypt through the eyes of Zeit W Lamoon, the Dubai-based destination to a culinary taste sensation. Established in 2021, Zeit W Lamoon means ‘Oil and lemon,’ which form an authentic Egyptian mixture to spice up the “Fava Beans” dish, also known as “Foul Medammes,” the primary element of Egyptian street food.
 
-### [Brikaa/dotfiles](https://github.com/Brikaa/dotfiles) - [50 commits](https://github.com/Brikaa/dotfiles/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - Shell
+### [Brikaa/dotfiles](https://github.com/Brikaa/dotfiles) - [50 commits](https://github.com/Brikaa/dotfiles/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - Shell
 My dotfiles
 
-### [Ali-Esmat/SW-Tools-Project](https://github.com/Ali-Esmat/SW-Tools-Project) - [39 commits](https://github.com/Ali-Esmat/SW-Tools-Project/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - Java
+### [Ali-Esmat/SW-Tools-Project](https://github.com/Ali-Esmat/SW-Tools-Project) - [39 commits](https://github.com/Ali-Esmat/SW-Tools-Project/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - Java
 no description
 
-### [Brikaa/contributions-getter](https://github.com/Brikaa/contributions-getter) - [24 commits](https://github.com/Brikaa/contributions-getter/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - TypeScript
+### [Brikaa/contributions-getter](https://github.com/Brikaa/contributions-getter) - [24 commits](https://github.com/Brikaa/contributions-getter/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - TypeScript
 A JavaScript/TypeScript library that gets all of the repositories a user has contributed to since their account's creation
 
-### [envicutor/drafts](https://github.com/envicutor/drafts) - [22 commits](https://github.com/envicutor/drafts/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - Dockerfile
+### [envicutor/drafts](https://github.com/envicutor/drafts) - [22 commits](https://github.com/envicutor/drafts/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - Dockerfile
 Issues and drafts for Envicutor
 
-### [fci-ai-project/ai-project](https://github.com/fci-ai-project/ai-project) - [19 commits](https://github.com/fci-ai-project/ai-project/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - Prolog
+### [fci-ai-project/ai-project](https://github.com/fci-ai-project/ai-project) - [19 commits](https://github.com/fci-ai-project/ai-project/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - Prolog
 Single-player Connect-N game using configurable Minimax and Alpha-Beta pruning algorithms
 
-### [sda-assignment/sda-assignment](https://github.com/sda-assignment/sda-assignment) - [16 commits](https://github.com/sda-assignment/sda-assignment/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - Java
-Usage of principles learnt in the Software Design and Architecture course to create an abstract e-payment system
-
-### [Brikaa/sw-tools-lab-task](https://github.com/Brikaa/sw-tools-lab-task) - [14 commits](https://github.com/Brikaa/sw-tools-lab-task/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - Java
+### [Brikaa/sw-tools-lab-task](https://github.com/Brikaa/sw-tools-lab-task) - [14 commits](https://github.com/Brikaa/sw-tools-lab-task/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - Java
 Setting up JBoss EAP 7.1, example REST API
 
-### [Brikaa/newecom-monitor](https://github.com/Brikaa/newecom-monitor) - [7 commits](https://github.com/Brikaa/newecom-monitor/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - Python
+### [sda-assignment/sda-assignment](https://github.com/sda-assignment/sda-assignment) - [10 commits](https://github.com/sda-assignment/sda-assignment/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - Java
+Usage of principles learnt in the Software Design and Architecture course to create an abstract e-payment system
+
+### [Brikaa/newecom-monitor](https://github.com/Brikaa/newecom-monitor) - [7 commits](https://github.com/Brikaa/newecom-monitor/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - Python
 Monitor the registration status in http://newecom.fci-cu.edu.eg/
 
-### [Brikaa/piston-test-tools](https://github.com/Brikaa/piston-test-tools) - [5 commits](https://github.com/Brikaa/piston-test-tools/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - Python
+### [Brikaa/piston-test-tools](https://github.com/Brikaa/piston-test-tools) - [5 commits](https://github.com/Brikaa/piston-test-tools/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - Python
 no description
 
-### [Brikaa/contributions-getter-actions](https://github.com/Brikaa/contributions-getter-actions) - [108 commits](https://github.com/Brikaa/contributions-getter-actions/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - TypeScript
+### [Brikaa/contributions-getter-actions](https://github.com/Brikaa/contributions-getter-actions) - [108 commits](https://github.com/Brikaa/contributions-getter-actions/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - TypeScript
 A highly configurable GitHub Action can be used to update your profile's README with the repositories you have committed in
 
-### [Brikaa/tools-3-project](https://github.com/Brikaa/tools-3-project) - [86 commits](https://github.com/Brikaa/tools-3-project/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - Go
-no description
-
-### [Brikaa/problem-solving](https://github.com/Brikaa/problem-solving) - [82 commits](https://github.com/Brikaa/problem-solving/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - C++
+### [Brikaa/problem-solving](https://github.com/Brikaa/problem-solving) - [93 commits](https://github.com/Brikaa/problem-solving/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - C++
 Problems solved in the problem solving course
 
-### [Brikaa/ai-assignment-2](https://github.com/Brikaa/ai-assignment-2) - [50 commits](https://github.com/Brikaa/ai-assignment-2/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - Prolog
+### [Brikaa/tools-3-project](https://github.com/Brikaa/tools-3-project) - [86 commits](https://github.com/Brikaa/tools-3-project/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - Go
+no description
+
+### [Brikaa/ai-assignment-2](https://github.com/Brikaa/ai-assignment-2) - [50 commits](https://github.com/Brikaa/ai-assignment-2/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - Prolog
 Usage of BFS or A* algorithm to solve a dominoes and bombs puzzle (AI Assignment)
 
-### [Brikaa/web-engineering-project](https://github.com/Brikaa/web-engineering-project) - [41 commits](https://github.com/Brikaa/web-engineering-project/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - PHP
+### [Brikaa/web-engineering-project](https://github.com/Brikaa/web-engineering-project) - [41 commits](https://github.com/Brikaa/web-engineering-project/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - PHP
 no description
 
-### [Brikaa/testing-assignment-1](https://github.com/Brikaa/testing-assignment-1) - [34 commits](https://github.com/Brikaa/testing-assignment-1/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - HTML
+### [Brikaa/testing-assignment-1](https://github.com/Brikaa/testing-assignment-1) - [34 commits](https://github.com/Brikaa/testing-assignment-1/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - HTML
 JUnit, graph coverage
 
-### [Brikaa/ai-assignment-1](https://github.com/Brikaa/ai-assignment-1) - [32 commits](https://github.com/Brikaa/ai-assignment-1/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - Prolog
+### [Brikaa/ai-assignment-1](https://github.com/Brikaa/ai-assignment-1) - [32 commits](https://github.com/Brikaa/ai-assignment-1/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - Prolog
 Prolog basics
 
-### [seam-project/seam-project](https://github.com/seam-project/seam-project) - [29 commits](https://github.com/seam-project/seam-project/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - no primary language
+### [seam-project/seam-project](https://github.com/seam-project/seam-project) - [29 commits](https://github.com/seam-project/seam-project/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - no primary language
 no description
 
-### [Brikaa/cpl-js-research](https://github.com/Brikaa/cpl-js-research) - [22 commits](https://github.com/Brikaa/cpl-js-research/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - TeX
+### [Brikaa/cpl-js-research](https://github.com/Brikaa/cpl-js-research) - [22 commits](https://github.com/Brikaa/cpl-js-research/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - TeX
 Evaluation of different JavaScript language design characteristics (Concepts of Programming Languages assignment)
 
-### [Brikaa/soft-computing-assignment-4](https://github.com/Brikaa/soft-computing-assignment-4) - [21 commits](https://github.com/Brikaa/soft-computing-assignment-4/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - Rust
-A neural network with configurable number of layers and activation functions
-
-### [Brikaa/soft-computing-assignment-3](https://github.com/Brikaa/soft-computing-assignment-3) - [21 commits](https://github.com/Brikaa/soft-computing-assignment-3/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - Rust
+### [Brikaa/soft-computing-assignment-3](https://github.com/Brikaa/soft-computing-assignment-3) - [21 commits](https://github.com/Brikaa/soft-computing-assignment-3/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - Rust
 A fuzzy control system
 
-### [Brikaa/soft-computing-assignment-2](https://github.com/Brikaa/soft-computing-assignment-2) - [17 commits](https://github.com/Brikaa/soft-computing-assignment-2/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - Rust
+### [Brikaa/soft-computing-assignment-4](https://github.com/Brikaa/soft-computing-assignment-4) - [21 commits](https://github.com/Brikaa/soft-computing-assignment-4/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - Rust
+A neural network with configurable number of layers and activation functions
+
+### [Brikaa/soft-computing-assignment-2](https://github.com/Brikaa/soft-computing-assignment-2) - [17 commits](https://github.com/Brikaa/soft-computing-assignment-2/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - Rust
 Genetic algorithm for curve fitting
 
-### [envicutor/docs-workflows](https://github.com/envicutor/docs-workflows) - [14 commits](https://github.com/envicutor/docs-workflows/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - no primary language
+### [envicutor/docs-workflows](https://github.com/envicutor/docs-workflows) - [14 commits](https://github.com/envicutor/docs-workflows/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - no primary language
 Common GitHub workflows that are used in building and deploying the docs
 
-### [envicutor/docs-builder](https://github.com/envicutor/docs-builder) - [12 commits](https://github.com/envicutor/docs-builder/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - Makefile
+### [envicutor/docs-builder](https://github.com/envicutor/docs-builder) - [12 commits](https://github.com/envicutor/docs-builder/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - Makefile
 Utilities to build the docs
 
-### [Brikaa/testing-assignment-2](https://github.com/Brikaa/testing-assignment-2) - [10 commits](https://github.com/Brikaa/testing-assignment-2/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - RobotFramework
+### [Brikaa/testing-assignment-2](https://github.com/Brikaa/testing-assignment-2) - [10 commits](https://github.com/Brikaa/testing-assignment-2/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - RobotFramework
 Usage of Robot Framework with Selenium to test the UI of a website (SW Testing assignment)
 
-### [seam-project/unitime-docker](https://github.com/seam-project/unitime-docker) - [9 commits](https://github.com/seam-project/unitime-docker/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - Shell
+### [seam-project/unitime-docker](https://github.com/seam-project/unitime-docker) - [9 commits](https://github.com/seam-project/unitime-docker/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - Shell
 no description
 
-### [Brikaa/seam-quality-attributes](https://github.com/Brikaa/seam-quality-attributes) - [7 commits](https://github.com/Brikaa/seam-quality-attributes/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - TeX
+### [Brikaa/seam-quality-attributes](https://github.com/Brikaa/seam-quality-attributes) - [7 commits](https://github.com/Brikaa/seam-quality-attributes/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - TeX
 A report about different quality attributes and metrics of measuring them (SW maintenance assignment)
 
-### [Brikaa/cpl-js-generic-research](https://github.com/Brikaa/cpl-js-generic-research) - [7 commits](https://github.com/Brikaa/cpl-js-generic-research/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - C++
+### [Brikaa/cpl-js-generic-research](https://github.com/Brikaa/cpl-js-generic-research) - [7 commits](https://github.com/Brikaa/cpl-js-generic-research/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - C++
 A report about generic programming in JavaScript (Concepts of Programming Languages assignment)
 
-### [fci-ai-project/fci-ai-project.github.io](https://github.com/fci-ai-project/fci-ai-project.github.io) - [4 commits](https://github.com/fci-ai-project/fci-ai-project.github.io/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - TeX
+### [fci-ai-project/fci-ai-project.github.io](https://github.com/fci-ai-project/fci-ai-project.github.io) - [4 commits](https://github.com/fci-ai-project/fci-ai-project.github.io/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - TeX
 no description
 
-### [Brikaa/Brikaa](https://github.com/Brikaa/Brikaa) - [4 commits](https://github.com/Brikaa/Brikaa/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - no primary language
+### [Brikaa/Brikaa](https://github.com/Brikaa/Brikaa) - [4 commits](https://github.com/Brikaa/Brikaa/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - no primary language
 no description
 
-### [Brikaa/maintenance-models-assignment](https://github.com/Brikaa/maintenance-models-assignment) - [4 commits](https://github.com/Brikaa/maintenance-models-assignment/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - TeX
+### [Brikaa/maintenance-models-assignment](https://github.com/Brikaa/maintenance-models-assignment) - [4 commits](https://github.com/Brikaa/maintenance-models-assignment/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - TeX
 A report about why we study SW maintenance and the quick-fix maintenance model
 
-### [Brikaa/web-engineering-presentation](https://github.com/Brikaa/web-engineering-presentation) - [4 commits](https://github.com/Brikaa/web-engineering-presentation/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - TypeScript
+### [Brikaa/web-engineering-presentation](https://github.com/Brikaa/web-engineering-presentation) - [4 commits](https://github.com/Brikaa/web-engineering-presentation/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - TypeScript
 no description
 
-### [Brikaa/cloud-task-3](https://github.com/Brikaa/cloud-task-3) - [2 commits](https://github.com/Brikaa/cloud-task-3/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - Shell
+### [Brikaa/cloud-task-3](https://github.com/Brikaa/cloud-task-3) - [2 commits](https://github.com/Brikaa/cloud-task-3/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - Shell
 no description
 
-### [seam-project/sonarqube-compose](https://github.com/seam-project/sonarqube-compose) - [1 commit](https://github.com/seam-project/sonarqube-compose/commits?author=Brikaa&since=2022-12-29&until=2023-12-30) - no primary language
+### [seam-project/sonarqube-compose](https://github.com/seam-project/sonarqube-compose) - [1 commit](https://github.com/seam-project/sonarqube-compose/commits?author=Brikaa&since=2022-12-30&until=2023-12-31) - no primary language
 no description
 
 </details>
 
-## 2021-12-29 -> 2022-12-29
+## 2021-12-30 -> 2022-12-30
 
 <details>
 
-### ⭐ [microsoft/vscode](https://github.com/microsoft/vscode) - [1 commit](https://github.com/microsoft/vscode/commits?author=Brikaa&since=2021-12-29&until=2022-12-30) - TypeScript
+### ⭐ [microsoft/vscode](https://github.com/microsoft/vscode) - [1 commit](https://github.com/microsoft/vscode/commits?author=Brikaa&since=2021-12-30&until=2022-12-31) - TypeScript
 Visual Studio Code
 
-### ⭐ [engineer-man/piston](https://github.com/engineer-man/piston) - [10 commits](https://github.com/engineer-man/piston/commits?author=Brikaa&since=2021-12-29&until=2022-12-30) - JavaScript
+### ⭐ [engineer-man/piston](https://github.com/engineer-man/piston) - [10 commits](https://github.com/engineer-man/piston/commits?author=Brikaa&since=2021-12-30&until=2022-12-31) - JavaScript
 A high performance general purpose code execution engine.
 
-### [microsoft/vscode-wiki](https://github.com/microsoft/vscode-wiki) - [2 commits](https://github.com/microsoft/vscode-wiki/commits?author=Brikaa&since=2021-12-29&until=2022-12-30) - no primary language
+### [microsoft/vscode-wiki](https://github.com/microsoft/vscode-wiki) - [2 commits](https://github.com/microsoft/vscode-wiki/commits?author=Brikaa&since=2021-12-30&until=2022-12-31) - no primary language
 A repository to make changes to the vscode Wiki on GitHub
 
-### [engineer-man/emkc](https://github.com/engineer-man/emkc) - [45 commits](https://github.com/engineer-man/emkc/commits?author=Brikaa&since=2021-12-29&until=2022-12-30) - JavaScript
+### [engineer-man/emkc](https://github.com/engineer-man/emkc) - [45 commits](https://github.com/engineer-man/emkc/commits?author=Brikaa&since=2021-12-30&until=2022-12-31) - JavaScript
 Engineer Man Knowledge Center
 
-### [cs-math/cs-math.github.io](https://github.com/cs-math/cs-math.github.io) - [1 commit](https://github.com/cs-math/cs-math.github.io/commits?author=Brikaa&since=2021-12-29&until=2022-12-30) - JavaScript
+### [cs-math/cs-math.github.io](https://github.com/cs-math/cs-math.github.io) - [1 commit](https://github.com/cs-math/cs-math.github.io/commits?author=Brikaa&since=2021-12-30&until=2022-12-31) - JavaScript
 Code for /dev/null team in Cairo University CS-Math Society
 
-### [Brikaa/gpa-calculator](https://github.com/Brikaa/gpa-calculator) - [7 commits](https://github.com/Brikaa/gpa-calculator/commits?author=Brikaa&since=2021-12-29&until=2022-12-30) - JavaScript
+### [Brikaa/gpa-calculator](https://github.com/Brikaa/gpa-calculator) - [7 commits](https://github.com/Brikaa/gpa-calculator/commits?author=Brikaa&since=2021-12-30&until=2022-12-31) - JavaScript
 Calculate your expected GPA on http://newecom.fci.cu.edu.eg/
 
-### [Brikaa/solid-geometry-tools](https://github.com/Brikaa/solid-geometry-tools) - [14 commits](https://github.com/Brikaa/solid-geometry-tools/commits?author=Brikaa&since=2021-12-29&until=2022-12-30) - JavaScript
+### [Brikaa/solid-geometry-tools](https://github.com/Brikaa/solid-geometry-tools) - [11 commits](https://github.com/Brikaa/solid-geometry-tools/commits?author=Brikaa&since=2021-12-30&until=2022-12-31) - JavaScript
 Solid Geometry Tools
 
-### [sda-assignment/sda-assignment](https://github.com/sda-assignment/sda-assignment) - [158 commits](https://github.com/sda-assignment/sda-assignment/commits?author=Brikaa&since=2021-12-29&until=2022-12-30) - Java
+### [sda-assignment/sda-assignment](https://github.com/sda-assignment/sda-assignment) - [158 commits](https://github.com/sda-assignment/sda-assignment/commits?author=Brikaa&since=2021-12-30&until=2022-12-31) - Java
 Usage of principles learnt in the Software Design and Architecture course to create an abstract e-payment system
 
-### [Brikaa/syntax-warriors](https://github.com/Brikaa/syntax-warriors) - [99 commits](https://github.com/Brikaa/syntax-warriors/commits?author=Brikaa&since=2021-12-29&until=2022-12-30) - JavaScript
+### [Brikaa/syntax-warriors](https://github.com/Brikaa/syntax-warriors) - [99 commits](https://github.com/Brikaa/syntax-warriors/commits?author=Brikaa&since=2021-12-30&until=2022-12-31) - JavaScript
 no description
 
-### [Brikaa/dotfiles](https://github.com/Brikaa/dotfiles) - [91 commits](https://github.com/Brikaa/dotfiles/commits?author=Brikaa&since=2021-12-29&until=2022-12-30) - Shell
+### [Brikaa/dotfiles](https://github.com/Brikaa/dotfiles) - [91 commits](https://github.com/Brikaa/dotfiles/commits?author=Brikaa&since=2021-12-30&until=2022-12-31) - Shell
 My dotfiles
 
-### [Brikaa/os-semaphore-assignment](https://github.com/Brikaa/os-semaphore-assignment) - [43 commits](https://github.com/Brikaa/os-semaphore-assignment/commits?author=Brikaa&since=2021-12-29&until=2022-12-30) - Java
+### [Brikaa/os-semaphore-assignment](https://github.com/Brikaa/os-semaphore-assignment) - [43 commits](https://github.com/Brikaa/os-semaphore-assignment/commits?author=Brikaa&since=2021-12-30&until=2022-12-31) - Java
 Producer-consumer problem
 
-### [Brikaa/piston-test-tools](https://github.com/Brikaa/piston-test-tools) - [13 commits](https://github.com/Brikaa/piston-test-tools/commits?author=Brikaa&since=2021-12-29&until=2022-12-30) - Python
-no description
-
-### [Brikaa/newecom-monitor](https://github.com/Brikaa/newecom-monitor) - [13 commits](https://github.com/Brikaa/newecom-monitor/commits?author=Brikaa&since=2021-12-29&until=2022-12-30) - Python
+### [Brikaa/newecom-monitor](https://github.com/Brikaa/newecom-monitor) - [13 commits](https://github.com/Brikaa/newecom-monitor/commits?author=Brikaa&since=2021-12-30&until=2022-12-31) - Python
 Monitor the registration status in http://newecom.fci-cu.edu.eg/
 
-### [Brikaa/faster-blackboard](https://github.com/Brikaa/faster-blackboard) - [9 commits](https://github.com/Brikaa/faster-blackboard/commits?author=Brikaa&since=2021-12-29&until=2022-12-30) - JavaScript
-A chrome extension that skips the intermediate page that BlackBoard opens before showing a PDF
-
-### [Brikaa/algo-assignment-3](https://github.com/Brikaa/algo-assignment-3) - [9 commits](https://github.com/Brikaa/algo-assignment-3/commits?author=Brikaa&since=2021-12-29&until=2022-12-30) - C++
-Dynamic programming and greedy algorithms problems
-
-### [Brikaa/parking-system-procedural](https://github.com/Brikaa/parking-system-procedural) - [3 commits](https://github.com/Brikaa/parking-system-procedural/commits?author=Brikaa&since=2021-12-29&until=2022-12-30) - Python
+### [Brikaa/piston-test-tools](https://github.com/Brikaa/piston-test-tools) - [13 commits](https://github.com/Brikaa/piston-test-tools/commits?author=Brikaa&since=2021-12-30&until=2022-12-31) - Python
 no description
 
-### [AbsoluteZero000/Typing_thingy](https://github.com/AbsoluteZero000/Typing_thingy) - [2 commits](https://github.com/AbsoluteZero000/Typing_thingy/commits?author=Brikaa&since=2021-12-29&until=2022-12-30) - JavaScript
+### [Brikaa/faster-blackboard](https://github.com/Brikaa/faster-blackboard) - [9 commits](https://github.com/Brikaa/faster-blackboard/commits?author=Brikaa&since=2021-12-30&until=2022-12-31) - JavaScript
+A chrome extension that skips the intermediate page that BlackBoard opens before showing a PDF
+
+### [Brikaa/algo-assignment-3](https://github.com/Brikaa/algo-assignment-3) - [9 commits](https://github.com/Brikaa/algo-assignment-3/commits?author=Brikaa&since=2021-12-30&until=2022-12-31) - C++
+Dynamic programming and greedy algorithms problems
+
+### [Brikaa/parking-system-procedural](https://github.com/Brikaa/parking-system-procedural) - [3 commits](https://github.com/Brikaa/parking-system-procedural/commits?author=Brikaa&since=2021-12-30&until=2022-12-31) - Python
+no description
+
+### [AbsoluteZero000/Typing_thingy](https://github.com/AbsoluteZero000/Typing_thingy) - [2 commits](https://github.com/AbsoluteZero000/Typing_thingy/commits?author=Brikaa&since=2021-12-30&until=2022-12-31) - JavaScript
 typeracer clone thingy
 
-### [zeitwlamoon/zeitwlamoon.github.io](https://github.com/zeitwlamoon/zeitwlamoon.github.io) - [1 commit](https://github.com/zeitwlamoon/zeitwlamoon.github.io/commits?author=Brikaa&since=2021-12-29&until=2022-12-30) - HTML
+### [zeitwlamoon/zeitwlamoon.github.io](https://github.com/zeitwlamoon/zeitwlamoon.github.io) - [1 commit](https://github.com/zeitwlamoon/zeitwlamoon.github.io/commits?author=Brikaa&since=2021-12-30&until=2022-12-31) - HTML
 Discover Egypt through the eyes of Zeit W Lamoon, the Dubai-based destination to a culinary taste sensation. Established in 2021, Zeit W Lamoon means ‘Oil and lemon,’ which form an authentic Egyptian mixture to spice up the “Fava Beans” dish, also known as “Foul Medammes,” the primary element of Egyptian street food.
 
-### [fishing-calendar/fishing-calendar.github.io](https://github.com/fishing-calendar/fishing-calendar.github.io) - [10 commits](https://github.com/fishing-calendar/fishing-calendar.github.io/commits?author=Brikaa&since=2021-12-29&until=2022-12-30) - JavaScript
+### [fishing-calendar/fishing-calendar.github.io](https://github.com/fishing-calendar/fishing-calendar.github.io) - [10 commits](https://github.com/fishing-calendar/fishing-calendar.github.io/commits?author=Brikaa&since=2021-12-30&until=2022-12-31) - JavaScript
 Shows the spring and neap tide days
 
-### [technomuscles/technomuscles](https://github.com/technomuscles/technomuscles) - [9 commits](https://github.com/technomuscles/technomuscles/commits?author=Brikaa&since=2021-12-29&until=2022-12-30) - no primary language
+### [technomuscles/technomuscles](https://github.com/technomuscles/technomuscles) - [9 commits](https://github.com/technomuscles/technomuscles/commits?author=Brikaa&since=2021-12-30&until=2022-12-31) - no primary language
 TechnoMuscles repository (a repository to practice JIRA integration with projects) (Software Process and Quality Management course)
 
 </details>
 
-## 2020-12-29 -> 2021-12-29
+## 2020-12-30 -> 2021-12-30
 
 <details>
 
-### ⭐ [engineer-man/piston](https://github.com/engineer-man/piston) - [43 commits](https://github.com/engineer-man/piston/commits?author=Brikaa&since=2020-12-29&until=2021-12-30) - JavaScript
+### ⭐ [engineer-man/piston](https://github.com/engineer-man/piston) - [43 commits](https://github.com/engineer-man/piston/commits?author=Brikaa&since=2020-12-30&until=2021-12-31) - JavaScript
 A high performance general purpose code execution engine.
 
-### [engineer-man/piston-bot](https://github.com/engineer-man/piston-bot) - [3 commits](https://github.com/engineer-man/piston-bot/commits?author=Brikaa&since=2020-12-29&until=2021-12-30) - Python
+### [engineer-man/piston-bot](https://github.com/engineer-man/piston-bot) - [3 commits](https://github.com/engineer-man/piston-bot/commits?author=Brikaa&since=2020-12-30&until=2021-12-31) - Python
 I Run Code bot on Discord
 
-### [engineer-man/emkc](https://github.com/engineer-man/emkc) - [60 commits](https://github.com/engineer-man/emkc/commits?author=Brikaa&since=2020-12-29&until=2021-12-30) - JavaScript
+### [engineer-man/emkc](https://github.com/engineer-man/emkc) - [60 commits](https://github.com/engineer-man/emkc/commits?author=Brikaa&since=2020-12-30&until=2021-12-31) - JavaScript
 Engineer Man Knowledge Center
 
-### [cs-math/cs-math.github.io](https://github.com/cs-math/cs-math.github.io) - [134 commits](https://github.com/cs-math/cs-math.github.io/commits?author=Brikaa&since=2020-12-29&until=2021-12-30) - JavaScript
+### [cs-math/cs-math.github.io](https://github.com/cs-math/cs-math.github.io) - [134 commits](https://github.com/cs-math/cs-math.github.io/commits?author=Brikaa&since=2020-12-30&until=2021-12-31) - JavaScript
 Code for /dev/null team in Cairo University CS-Math Society
 
-### [Brikaa/solid-geometry-tools](https://github.com/Brikaa/solid-geometry-tools) - [3 commits](https://github.com/Brikaa/solid-geometry-tools/commits?author=Brikaa&since=2020-12-29&until=2021-12-30) - JavaScript
+### [Brikaa/solid-geometry-tools](https://github.com/Brikaa/solid-geometry-tools) - [5 commits](https://github.com/Brikaa/solid-geometry-tools/commits?author=Brikaa&since=2020-12-30&until=2021-12-31) - JavaScript
 Solid Geometry Tools
 
-### [zeitwlamoon/zeitwlamoon.github.io](https://github.com/zeitwlamoon/zeitwlamoon.github.io) - [52 commits](https://github.com/zeitwlamoon/zeitwlamoon.github.io/commits?author=Brikaa&since=2020-12-29&until=2021-12-30) - HTML
+### [zeitwlamoon/zeitwlamoon.github.io](https://github.com/zeitwlamoon/zeitwlamoon.github.io) - [52 commits](https://github.com/zeitwlamoon/zeitwlamoon.github.io/commits?author=Brikaa&since=2020-12-30&until=2021-12-31) - HTML
 Discover Egypt through the eyes of Zeit W Lamoon, the Dubai-based destination to a culinary taste sensation. Established in 2021, Zeit W Lamoon means ‘Oil and lemon,’ which form an authentic Egyptian mixture to spice up the “Fava Beans” dish, also known as “Foul Medammes,” the primary element of Egyptian street food.
 
-### [Brikaa/gram-schmidt-calculator](https://github.com/Brikaa/gram-schmidt-calculator) - [5 commits](https://github.com/Brikaa/gram-schmidt-calculator/commits?author=Brikaa&since=2020-12-29&until=2021-12-30) - JavaScript
-no description
-
-### [Brikaa/dotfiles](https://github.com/Brikaa/dotfiles) - [4 commits](https://github.com/Brikaa/dotfiles/commits?author=Brikaa&since=2020-12-29&until=2021-12-30) - Shell
+### [Brikaa/dotfiles](https://github.com/Brikaa/dotfiles) - [5 commits](https://github.com/Brikaa/dotfiles/commits?author=Brikaa&since=2020-12-30&until=2021-12-31) - Shell
 My dotfiles
 
-### [Brikaa/brikaa.github.io](https://github.com/Brikaa/brikaa.github.io) - [2 commits](https://github.com/Brikaa/brikaa.github.io/commits?author=Brikaa&since=2020-12-29&until=2021-12-30) - HTML
+### [Brikaa/gram-schmidt-calculator](https://github.com/Brikaa/gram-schmidt-calculator) - [5 commits](https://github.com/Brikaa/gram-schmidt-calculator/commits?author=Brikaa&since=2020-12-30&until=2021-12-31) - JavaScript
+no description
+
+### [Brikaa/brikaa.github.io](https://github.com/Brikaa/brikaa.github.io) - [2 commits](https://github.com/Brikaa/brikaa.github.io/commits?author=Brikaa&since=2020-12-30&until=2021-12-31) - HTML
 Omar Brikaa's personal website.
 
-### [cs-math/gpa-calc](https://github.com/cs-math/gpa-calc) - [7 commits](https://github.com/cs-math/gpa-calc/commits?author=Brikaa&since=2020-12-29&until=2021-12-30) - Python
+### [cs-math/gpa-calc](https://github.com/cs-math/gpa-calc) - [7 commits](https://github.com/cs-math/gpa-calc/commits?author=Brikaa&since=2020-12-30&until=2021-12-31) - Python
 Calculate your expected GPA on newecom.fci.cu.edu.eg
 
 </details>
 
-## 2019-12-29 -> 2020-12-29
+## 2019-12-30 -> 2020-12-30
 
 <details>
 
-### ⭐ [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - [2 commits](https://github.com/PyGithub/PyGithub/commits?author=Brikaa&since=2019-12-29&until=2020-12-30) - Python
+### ⭐ [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - [2 commits](https://github.com/PyGithub/PyGithub/commits?author=Brikaa&since=2019-12-30&until=2020-12-31) - Python
 Typed interactions with the GitHub API v3
 
-### [engineer-man/emkc](https://github.com/engineer-man/emkc) - [19 commits](https://github.com/engineer-man/emkc/commits?author=Brikaa&since=2019-12-29&until=2020-12-30) - JavaScript
+### [engineer-man/emkc](https://github.com/engineer-man/emkc) - [19 commits](https://github.com/engineer-man/emkc/commits?author=Brikaa&since=2019-12-30&until=2020-12-31) - JavaScript
 Engineer Man Knowledge Center
 
-### [Open-Source-Project-Collaboration/board-game-playing-ai](https://github.com/Open-Source-Project-Collaboration/board-game-playing-ai) - [35 commits](https://github.com/Open-Source-Project-Collaboration/board-game-playing-ai/commits?author=Brikaa&since=2019-12-29&until=2020-12-30) - Python
+### [Open-Source-Project-Collaboration/board-game-playing-ai](https://github.com/Open-Source-Project-Collaboration/board-game-playing-ai) - [35 commits](https://github.com/Open-Source-Project-Collaboration/board-game-playing-ai/commits?author=Brikaa&since=2019-12-30&until=2020-12-31) - Python
 Chess AI using Neural Network and Min/Max algorithm and tree pruning
 
-### [projectunic0rn/pub-workspace](https://github.com/projectunic0rn/pub-workspace) - [2 commits](https://github.com/projectunic0rn/pub-workspace/commits?author=Brikaa&since=2019-12-29&until=2020-12-30) - Python
+### [projectunic0rn/pub-workspace](https://github.com/projectunic0rn/pub-workspace) - [2 commits](https://github.com/projectunic0rn/pub-workspace/commits?author=Brikaa&since=2019-12-30&until=2020-12-31) - Python
 pub workspace apps
 
-### [Open-Source-Project-Collaboration/osc-bot](https://github.com/Open-Source-Project-Collaboration/osc-bot) - [222 commits](https://github.com/Open-Source-Project-Collaboration/osc-bot/commits?author=Brikaa&since=2019-12-29&until=2020-12-30) - Python
+### [Open-Source-Project-Collaboration/osc-bot](https://github.com/Open-Source-Project-Collaboration/osc-bot) - [222 commits](https://github.com/Open-Source-Project-Collaboration/osc-bot/commits?author=Brikaa&since=2019-12-30&until=2020-12-31) - Python
 A discord bot that automates the process of voting on and creating projects and GitHub teams.
 
-### [Open-Source-Project-Collaboration/blockchain-distributed-streaming-api](https://github.com/Open-Source-Project-Collaboration/blockchain-distributed-streaming-api) - [1 commit](https://github.com/Open-Source-Project-Collaboration/blockchain-distributed-streaming-api/commits?author=Brikaa&since=2019-12-29&until=2020-12-30) - no primary language
+### [Open-Source-Project-Collaboration/blockchain-distributed-streaming-api](https://github.com/Open-Source-Project-Collaboration/blockchain-distributed-streaming-api) - [1 commit](https://github.com/Open-Source-Project-Collaboration/blockchain-distributed-streaming-api/commits?author=Brikaa&since=2019-12-30&until=2020-12-31) - no primary language
 no description
 
 </details>
 
-## 2017-12-29 -> 2018-12-29
+## 2017-12-30 -> 2018-12-30
 
 <details>
 
-### ⭐ [geekcomputers/Python](https://github.com/geekcomputers/Python) - [1 commit](https://github.com/geekcomputers/Python/commits?author=Brikaa&since=2017-12-29&until=2018-12-30) - Python
+### ⭐ [geekcomputers/Python](https://github.com/geekcomputers/Python) - [1 commit](https://github.com/geekcomputers/Python/commits?author=Brikaa&since=2017-12-30&until=2018-12-31) - Python
 My Python Examples
 
 </details>
